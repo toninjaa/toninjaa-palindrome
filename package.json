@@ -1,0 +1,52 @@
+{
+  "_from": "toninjaa-palindrome",
+  "_id": "toninjaa-palindrome@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-zFvqIS6G4tPiv4eQ1Qo1F9VDZX1KspESofE6/wBZmR0N72vLkkuXXY+7HWRMFhYl5L1rlTqhTYTYR3ANScvAbA==",
+  "_location": "/toninjaa-palindrome",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "toninjaa-palindrome",
+    "name": "toninjaa-palindrome",
+    "escapedName": "toninjaa-palindrome",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/toninjaa-palindrome/-/toninjaa-palindrome-0.1.0.tgz",
+  "_shasum": "da465f6bbc2016b9f0b5e6ce479f4095d9b22144",
+  "_spec": "toninjaa-palindrome",
+  "_where": "/Users/ToniaRudi",
+  "author": {
+    "name": "Tonia Del Priore"
+  },
+  "bugs": {
+    "url": "https://github.com/toninjaa/toninjaa-palindrome/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Palindrome detector",
+  "homepage": "https://github.com/toninjaa/toninjaa-palindrome#readme",
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "toninjaa-palindrome",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toninjaa/toninjaa-palindrome.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.1.0"
+}
